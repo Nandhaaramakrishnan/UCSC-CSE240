@@ -1,1 +1,1 @@
-UCSC CSE 240 - Artificial Intelligence
+## UCSC CSE 240 - Artificial Intelligence
